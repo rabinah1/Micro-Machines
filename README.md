@@ -2,7 +2,7 @@
 
 ## General information
 
-This program is a simple racing game inspired by the Micro Machines -game. This is a school project that I did during a course "C++ Programming" in a group of four people. My part of the project was to implement the file "Functions.cpp" (except for the function "EditorWindow" that I did not implement) and I also wrote a major part of the file "Main.cpp". All members of our group contributed quite equally to this project.
+This program is a simple racing game inspired by the Micro Machines -game. This is a school project that I did during a course "C++ Programming" in a group of four people. My part of the project was to write the file "Functions.cpp" (except for the function "EditorWindow" that I did not implement) and I also wrote a major part of the file "Main.cpp". I did not contribute to the implementation of the physics engine of the game. All members of our group contributed quite equally to this project.
 
 ## Requirements for using the program
 
